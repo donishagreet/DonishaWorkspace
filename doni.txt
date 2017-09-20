@@ -1,10 +1,1 @@
- Volume in drive D is DATA
- Volume Serial Number is 7626-F761
-
- Directory of D:\MyGitWorkspace
-
-09/20/2017  02:27 PM    <DIR>          .
-09/20/2017  02:27 PM    <DIR>          ..
-09/20/2017  02:27 PM                 0 doni.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  145,844,715,520 bytes free
+Hi Donisha
